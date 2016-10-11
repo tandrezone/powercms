@@ -1,0 +1,10 @@
+{
+  "name": "grunt-wiredep-getting-started",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "angular": "angularjs#^1.5.8",
+    "foundation": "^5.5.3"
+  }
+}
