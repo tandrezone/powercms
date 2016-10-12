@@ -1,6 +1,6 @@
 {
   "config": {
-      "vendor-dir": "packages"
+      "vendor-dir": "packages/server"
   },
     "require": {
          "doctrine/orm": "2.4.*",

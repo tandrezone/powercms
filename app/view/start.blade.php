@@ -7,7 +7,6 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- bower:css -->
-        <link rel="stylesheet" href="../../bower_components/bootstrap/dist/css/bootstrap.css" />
         <!-- endbower -->
     </head>
     <body>
@@ -21,14 +20,7 @@
 
 
         <!-- bower:js -->
-        <script src="../../bower_components/jquery/dist/jquery.js"></script>
-        <script src="../../bower_components/bootstrap/dist/js/bootstrap.js"></script>
-        <script src="../../bower_components/angular/angular.js"></script>
-        <script src="../../bower_components/modernizr/modernizr.js"></script>
-        <script src="../../bower_components/fastclick/lib/fastclick.js"></script>
-        <script src="../../bower_components/jquery.cookie/jquery.cookie.js"></script>
-        <script src="../../bower_components/jquery-placeholder/jquery.placeholder.js"></script>
-        <script src="../../bower_components/foundation/js/foundation.js"></script>
+
         <!-- endbower -->
     </body>
 </html>

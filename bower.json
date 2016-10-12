@@ -1,10 +1,8 @@
 {
-  "name": "grunt-wiredep-getting-started",
+  "name": "powercms",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "dependencies": {
-    "bootstrap": "~3.0.0",
-    "angular": "angularjs#^1.5.8",
-    "foundation": "^5.5.3"
+    "bootstrap": "~3.0.0"
   }
 }
