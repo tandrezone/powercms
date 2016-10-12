@@ -1,5 +1,5 @@
 /node_modules
-/bower_components
-/packages
-/tmp/views/
-/tmp/cache/*
+/packages/server
+/packages/client
+/tmp/views
+/tmp/cache
