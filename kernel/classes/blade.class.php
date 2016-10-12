@@ -2,7 +2,7 @@
 class blade{
   private $package;
   function __construct() {
-    $path = ['app/view'];         // your view file path, it's an array
+    $path = ['app/view','kernel/views','packages/views'];         // your view file path, it's an array
     $cachePath = 'tmp/views';     // compiled file path
 
     $compiler = new \Xiaoler\Blade\Compilers\BladeCompiler($cachePath);

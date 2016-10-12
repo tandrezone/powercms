@@ -1,4 +1,4 @@
-@extends('start')
+@extends('index')
 
 @section('content')
 <nav class="navbar navbar-default">
