@@ -1,5 +1,5 @@
 <?php
-class blade{
+class template{
   private $package;
   function __construct() {
     $path = ['app/view','kernel/views','packages/views'];         // your view file path, it's an array
