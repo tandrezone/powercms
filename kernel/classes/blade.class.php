@@ -2,8 +2,8 @@
 class template{
   private $package;
   function __construct() {
-    $path = ['app/view','kernel/views';         // your view file path, it's an array
-    $cachePath = 'tmp/views';     // compiled file path
+    $path = ['app/view','kernel/views'];         // your view file path, it's an array
+    $cachePath = 'tmp/views';                   // compiled file path
 
     $compiler = new \Xiaoler\Blade\Compilers\BladeCompiler($cachePath);
     $engine = new \Xiaoler\Blade\Engines\CompilerEngine($compiler);
